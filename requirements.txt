@@ -15,7 +15,6 @@ pinecone
 streamlit
 deep-translator
 SpeechRecognition
-PyAudio
 gTTS 
 audio_recorder_streamlit
 pydub
