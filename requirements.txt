@@ -1,7 +1,6 @@
 langchain
 langchain-community
 langchain-chroma
-chromadb
 langchain-text-splitters    
 flask
 chromadb
